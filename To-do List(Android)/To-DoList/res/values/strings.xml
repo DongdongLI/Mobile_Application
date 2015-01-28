@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">To-Do List</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display">Display Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="display_title_textView">Task Information</string>
+	<string name="title_activity_create_task">Create Task</string>
+    <string name="create_task_title_edittext">Title</string>
+    <string name="create_task_date_edittext">Date</string>
+    <string name="create_task_time_edittext">Time</string>
+    <string name="create_task_priority_textview">Priority:</string>
+    <string name="radio_high">High</string>
+    <string name="radio_medium">Medium</string>
+    <string name="radio_low">Low</string>
+    <string name="create_task_save_button">Save</string>
+    <string name="title_activity_edit_task">Edit Task</string>
+    <string name="name_placeholder">Name:</string>
+    <string name="date_placeholder">Date:</string>
+    <string name="time_placeholder">Time:</string>
+    <string name="priority_placeholder">Priority:</string>
+    <string name="task_placeholder"># Tasks</string>
+</resources>

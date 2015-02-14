@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image Searcher</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mian_activity_button_submit">Submit</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="main_activity_edittext_hint">Enter Keyword Search Term</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="Detail_title">Photo Name</string>
+    <string name="DetailOwner">By: Owner\'s FullName</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
